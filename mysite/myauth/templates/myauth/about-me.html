@@ -1,0 +1,33 @@
+{% extends 'myauth/base.html' %}
+
+{% block title %}
+  About me
+{% endblock %}
+
+{% block body %}
+  <h1>User info</h1>
+  {% if user.is_authenticated %}
+    <h3>Avatar</h3>
+    <div>
+      {% if user.profile.avatar %}
+          <img src="{{ user.profile.avatar.url }}" alt="user.profile.avatar.name">
+        {% else %}
+          <p>The user does not have an avatar</p>
+        {% endif %}
+      <form action = "{% url 'myauth:add-avatar' username=user.username %}" method = "post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value=Submit>
+      </form>
+    </div>
+    <h2>Detail</h2>
+    <p>Username: {{ user.username }}</p>
+    <p>First name: {{ user.first_name }}</p>
+    <p>Last name: {{ user.last_name }}</p>
+    <p>Email: {{ user.email }}</p>
+    <p>Bio: {{ user.profile.bio }}</p>
+  {% else %}
+    <h2>User is anonymous</h2>
+  {% endif %}
+
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends 'shopapp/base.html' %}
+{% load cache %}
+
+{% block title %}
+    User orders
+{% endblock %}
+
+{% block body %}
+  <h1>User orders:</h1>
+    {% cache 100 orders %}
+    <div>
+      {% for order in user_orders %}
+        <div>
+            <p><a href="{% url 'shopapp:order_detail' pk=order.pk %}"
+            >Order #{{ order.pk }}</a></p>
+        </div>
+      {% endfor %}
+    </div>
+    {% endcache %}
+{% endblock %}

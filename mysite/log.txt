@@ -1,0 +1,2267 @@
+2023-06-15 18:45:46,081 [INFO] shopapp.views: Rendering shop index
+2023-06-15 18:45:46,598 [INFO] shopapp.views: Rendering shop index
+2023-06-15 18:45:47,056 [INFO] shopapp.views: Rendering shop index
+2023-06-15 18:45:56,515 [INFO] shopapp.views: Rendering shop index
+2023-06-15 18:45:57,009 [INFO] shopapp.views: Rendering shop index
+
+21432
+2023-06-15 18:48:17,810 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-17 20:01:11,772 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-17 20:01:12,981 [WARNING] django.request: Not Found: /
+2023-06-17 20:01:13,105 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-17 20:51:19,311 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-17 20:51:21,471 [WARNING] django.request: Not Found: /
+2023-06-17 20:51:21,593 [WARNING] django.request: Not Found: /favicon.ico
+<<<<<<< HEAD
+2023-06-19 18:32:52,580 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:32:54,531 [WARNING] django.request: Not Found: /
+2023-06-19 18:32:54,675 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-19 18:37:09,313 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:37:09,916 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:42:29,622 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:42:30,174 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:45:36,307 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:45:36,902 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:45:48,146 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:45:48,733 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:46:08,504 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:46:09,004 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:46:34,987 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:46:35,582 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:46:55,338 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:46:55,877 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:47:26,248 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:47:26,852 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:47:55,189 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:47:55,698 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:48:26,785 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:48:27,340 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:48:48,235 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:48:48,770 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:49:11,698 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:49:12,259 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:49:21,421 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:49:21,985 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:49:43,887 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:49:44,450 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:49:54,067 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:49:54,613 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:50:15,498 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:50:16,071 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:50:57,160 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:50:57,694 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:51:05,741 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:51:06,339 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:51:26,149 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:51:26,687 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:51:31,571 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:51:32,215 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:51:55,189 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:51:55,753 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:52:14,559 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:52:15,133 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:53:49,363 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\admin.py changed, reloading.
+2023-06-19 18:53:49,910 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 18:53:51,203 [WARNING] django.request: Not Found: /
+2023-06-19 19:26:38,232 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:26:38,802 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:29:06,351 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:29:06,884 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:29:15,685 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:29:16,236 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:30:27,209 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:30:27,767 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:31:07,575 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:31:08,133 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:31:25,676 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:31:26,223 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:31:54,547 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:31:55,097 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:32:13,788 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:32:14,344 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:32:39,455 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:32:40,027 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:33:16,937 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:33:17,509 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:33:42,603 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:33:43,229 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:34:03,053 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:34:03,582 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:36:21,449 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:36:21,973 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:36:26,870 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:36:27,459 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:36:57,862 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:36:58,427 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:38:13,479 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:38:14,061 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:38:37,081 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:38:37,661 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:39:31,499 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:39:32,048 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:39:55,751 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:39:56,326 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:40:35,266 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:40:35,806 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:40:55,197 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:40:55,735 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:41:01,639 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:41:02,186 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:41:17,768 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:41:18,358 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:41:48,794 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-19 19:41:49,342 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:42:35,642 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-19 19:42:36,183 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:42:48,169 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-19 19:42:48,689 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:43:01,731 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-19 19:43:02,253 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:43:07,896 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-19 19:43:08,422 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:43:09,923 [WARNING] django.request: Not Found: /
+2023-06-19 19:43:33,305 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products-list.html' not found. 'products-list.html' is not a valid view function or pattern name.
+2023-06-19 19:44:00,450 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:44:00,996 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:44:03,355 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+2023-06-19 19:45:16,513 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:45:17,057 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:45:19,558 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 187, in get_feed
+    title = self._get_dynamic_attr("item_title", item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 229, in item_title
+    return item.title
+           ^^^^^^^^^^
+AttributeError: 'Product' object has no attribute 'title'
+2023-06-19 19:45:57,303 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:45:57,850 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:45:59,881 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse("shopapp:products", kwargs={"pk": item.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+2023-06-19 19:46:13,679 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 19:46:14,227 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:46:16,401 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse("shopapp:products_list", kwargs={"pk": item.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['en/shop/products/\\Z']
+2023-06-19 19:49:01,565 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse("shopapp:products_list", kwargs={"pk": item.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['en/shop/products/\\Z']
+2023-06-19 19:49:25,188 [ERROR] django.request: Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse("shopapp:products_list", kwargs={"pk": item.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['en/shop/products/\\Z']
+2023-06-19 19:53:20,060 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-19 19:53:20,665 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:57:56,085 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 19:57:56,617 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:58:32,360 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 19:58:32,881 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:58:39,411 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 19:58:39,864 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:59:29,355 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 19:59:29,873 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 19:59:41,529 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 19:59:42,106 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:00:59,350 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 20:00:59,908 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:01:43,117 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 20:01:43,645 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:02:55,547 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:02:56,107 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:03:06,235 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:03:06,787 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:03:28,698 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:03:29,263 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:03:54,261 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:03:54,810 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:04:08,998 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:04:09,563 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:04:21,586 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:04:22,161 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:04:26,945 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:04:27,505 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:04:41,634 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\urls.py changed, reloading.
+2023-06-19 20:04:42,229 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:08:37,222 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:08:39,049 [WARNING] django.request: Not Found: /
+2023-06-19 20:10:06,670 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2023-06-19 20:10:20,175 [ERROR] django.request: Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\views.py", line 34, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\views.py", line 130, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site, protocol=req_protocol))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\__init__.py", line 163, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\__init__.py", line 183, in _urls
+    loc = f"{protocol}://{domain}{self._location(item)}"
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\__init__.py", line 118, in _location
+    return self._get("location", item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\__init__.py", line 92, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\sitemaps\__init__.py", line 128, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py", line 37, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2023-06-19 20:12:13,081 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2023-06-19 20:15:16,234 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 20:15:18,309 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2023-06-19 20:15:19,032 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+=======
+>>>>>>> origin/homework
+2023-06-19 22:31:19,899 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 22:31:21,394 [WARNING] django.request: Not Found: /
+2023-06-19 22:31:21,504 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-19 22:31:44,056 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 60, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py", line 37, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2023-06-19 22:32:31,257 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py changed, reloading.
+2023-06-19 22:32:31,825 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 22:32:34,476 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 60, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py", line 37, in get_absolute_url
+    return reverse("shopapp:products_list", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['shop/products/\\Z']
+2023-06-19 22:32:36,258 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 60, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\models.py", line 37, in get_absolute_url
+    return reverse("shopapp:products_list", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with keyword arguments '{'pk': 13}' not found. 1 pattern(s) tried: ['shop/products/\\Z']
+2023-06-19 22:35:17,924 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-19 22:35:18,550 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-19 22:35:20,646 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_details' with no arguments not found. 1 pattern(s) tried: ['shop/products/(?P<pk>[0-9]+)/\\Z']
+2023-06-19 22:35:21,723 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 143, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 17, in add_domain
+    if url.startswith("//"):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\utils\functional.py", line 149, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product_details' with no arguments not found. 1 pattern(s) tried: ['shop/products/(?P<pk>[0-9]+)/\\Z']
+2023-06-20 16:51:21,291 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-20 16:51:24,185 [WARNING] django.request: Not Found: /
+2023-06-20 16:51:24,317 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-20 16:51:54,944 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+                      ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+KeyError: 'shopap'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse('shopap:products_list', args=[item.pk])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'shopap' is not a registered namespace
+2023-06-21 00:15:21,560 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 00:15:23,584 [WARNING] django.request: Not Found: /
+2023-06-21 00:15:23,795 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-21 00:15:43,944 [ERROR] django.request: Internal Server Error: /shop/products/latest/feed/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 40, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 194, in get_feed
+    self._get_dynamic_attr("item_link", item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\syndication\views.py", line 103, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 232, in item_link
+    return reverse('shopapp:products_list', args=[item.pk])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products_list' with arguments '(13,)' not found. 1 pattern(s) tried: ['shop/products/\\Z']
+2023-06-21 14:20:32,628 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 14:20:33,661 [WARNING] django.request: Not Found: /
+2023-06-21 14:20:33,789 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-21 14:24:09,740 [WARNING] django.request: Not Found: /
+2023-06-21 14:24:20,045 [WARNING] django.request: Not Found: /
+2023-06-21 15:23:47,293 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:23:48,576 [WARNING] django.request: Not Found: /
+2023-06-21 15:23:48,711 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-21 15:23:57,796 [INFO] shopapp.views: Rendering shop index
+2023-06-21 15:26:41,278 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:26:42,420 [WARNING] django.request: Not Found: /
+2023-06-21 15:29:19,695 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-21 15:29:20,246 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:29:54,087 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-21 15:29:54,639 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:30:16,046 [INFO] shopapp.views: Rendering shop index
+2023-06-21 15:37:24,153 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-21 15:37:24,709 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:44:33,123 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-21 15:44:33,662 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:49:18,505 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-21 15:49:19,037 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:50:43,087 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-21 15:50:43,647 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:51:18,289 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-21 15:51:18,798 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-21 15:51:41,612 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\contrib\auth\mixins.py", line 73, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: UserOrdersListView.get() got an unexpected keyword argument 'user_id'
+2023-06-21 15:52:54,333 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-21 15:52:54,859 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:15:11,283 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:15:16,736 [WARNING] django.request: Not Found: /
+2023-06-23 15:15:16,880 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-23 15:16:09,436 [WARNING] django.request: Not Found: /users/1/orders
+2023-06-23 15:16:32,042 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:16:32,573 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:26:40,459 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:26:41,038 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:27:13,585 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:27:14,166 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:27:54,203 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:27:54,846 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:48:59,757 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:49:00,300 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:52:55,397 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:52:55,957 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:57:08,719 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:57:09,270 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 15:58:54,493 [WARNING] django.request: Not Found: /
+2023-06-23 15:58:55,402 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 15:58:55,926 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:00:03,829 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:00:04,351 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:06:37,201 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:06:37,752 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:09:41,948 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:09:42,554 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:12:11,358 [WARNING] django.request: Not Found: /
+2023-06-23 16:13:08,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:13:10,504 [WARNING] django.request: Not Found: /
+2023-06-23 16:14:29,758 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:19:12,165 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:19:13,353 [WARNING] django.request: Not Found: /
+2023-06-23 16:19:58,857 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:19:59,477 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:23:01,841 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:23:02,414 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:23:56,646 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 16:23:57,163 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:35:53,243 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:35:54,699 [WARNING] django.request: Not Found: /
+2023-06-23 16:36:55,217 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 16:36:58,282 [WARNING] django.request: Not Found: /
+2023-06-23 16:37:45,613 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-23 16:37:46,155 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:13:30,048 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-23 17:13:30,618 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:18:32,954 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 17:18:33,534 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:23:04,400 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 17:23:04,980 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:24:12,939 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 17:24:13,501 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:28:19,258 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-23 17:28:19,818 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:28:32,908 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-23 17:35:57,617 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-23 17:35:58,600 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-23 17:38:58,972 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-23 17:38:59,518 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:39:02,735 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-23 17:51:02,355 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:51:04,288 [WARNING] django.request: Not Found: /
+2023-06-23 17:51:04,403 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-23 17:52:50,029 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-23 17:52:50,607 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-23 17:53:22,002 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-23 17:53:22,568 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:31:39,425 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:31:40,803 [WARNING] django.request: Not Found: /
+2023-06-24 15:31:40,959 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-24 15:34:59,304 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:34:59,846 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:35:28,677 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:35:29,246 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:35:44,721 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:35:45,239 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:36:24,000 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:36:53,078 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:36:53,626 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:36:55,927 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:37:31,675 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:37:32,199 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:37:36,365 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:37:37,783 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:37:56,958 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:37:57,556 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:37:59,517 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:38:27,011 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:38:39,944 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-24 15:38:40,468 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:38:43,291 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:38:44,625 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:38:45,353 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:38:56,165 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:39:00,041 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:42,292 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:43,022 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:47,358 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:52,727 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:39:53,284 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:39:55,727 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:56,314 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:39:56,932 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:40:11,186 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\mysite\settings.py changed, reloading.
+2023-06-24 15:40:11,740 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:40:17,490 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:40:18,081 [ERROR] django.request: Internal Server Error: /shop/users/2/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:40:23,573 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:40:56,370 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:41:08,131 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:41:08,828 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:45:22,896 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-24 15:47:41,763 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:47:42,332 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:49:38,751 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:49:39,353 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-24 15:49:57,020 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-24 15:49:57,674 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:01:16,263 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:01:17,656 [WARNING] django.request: Not Found: /
+2023-06-27 17:01:17,813 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-27 17:01:29,185 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-27 17:01:59,786 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-27 17:02:00,335 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:02:02,380 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-27 17:03:27,431 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-27 17:03:27,970 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:05:38,416 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-27 17:05:38,930 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:05:57,616 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-27 17:05:58,152 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:07:18,512 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-27 17:07:19,026 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 17:07:20,933 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-29 15:48:40,197 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 15:48:41,603 [WARNING] django.request: Not Found: /
+2023-06-29 15:48:41,711 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-29 15:48:51,684 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-29 15:54:04,969 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 15:54:05,503 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 15:54:07,571 [WARNING] django.request: Not Found: /
+2023-06-29 15:54:09,821 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-29 15:54:26,863 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 15:54:27,385 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:50:21,659 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:50:22,899 [WARNING] django.request: Not Found: /
+2023-06-29 18:50:22,981 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-29 18:50:35,689 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-29 18:51:20,079 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-29 18:51:20,620 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:51:24,077 [ERROR] django.request: Internal Server Error: /shop/users/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:52:11,430 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\urls.py changed, reloading.
+2023-06-29 18:52:11,989 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:52:22,039 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: OrdersDataExportView.get() got an unexpected keyword argument 'user_id'
+2023-06-29 18:52:41,528 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 18:52:42,187 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:54:17,425 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 18:54:17,990 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:54:18,934 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:54:29,137 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:55:18,205 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 18:55:18,775 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:55:19,401 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 262, in get
+    return JsonResponse({"orders": orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DeferredAttribute is not JSON serializable
+2023-06-29 18:56:11,460 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 262, in get
+    return JsonResponse({"orders": orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type DeferredAttribute is not JSON serializable
+2023-06-29 18:56:11,538 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 18:56:12,100 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:56:13,094 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:56:16,329 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:56:16,925 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [product.name for product in order.products],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 18:58:08,779 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 18:58:09,324 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 18:58:10,500 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 262, in get
+    return JsonResponse({"orders": orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ManyRelatedManager is not JSON serializable
+2023-06-29 18:58:13,028 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 262, in get
+    return JsonResponse({"orders": orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ManyRelatedManager is not JSON serializable
+2023-06-29 19:01:13,972 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 19:01:14,542 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:11:37,246 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:11:38,406 [WARNING] django.request: Not Found: /
+2023-06-29 19:11:38,487 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-29 19:11:45,665 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:02,638 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 19:12:03,304 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:12:03,819 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:05,792 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:06,336 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:06,490 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:06,649 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:06,787 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:12:32,755 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 19:12:33,301 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:12:36,002 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:13:58,094 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:13:58,693 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:14:49,278 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 19:14:49,849 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:14:51,936 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 253, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 257, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:15:08,883 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-29 19:15:09,452 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-29 19:15:37,250 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:41,952 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:42,599 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:43,041 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:43,496 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:43,666 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:43,813 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:43,978 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,142 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,347 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,507 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,667 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,816 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:44,985 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:45,140 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-29 19:17:45,309 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 252, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 256, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-30 03:01:33,857 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-30 03:01:35,173 [WARNING] django.request: Not Found: /
+2023-06-30 03:01:35,288 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-30 03:01:42,129 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 254, in get
+    orders_data = [
+                  ^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 258, in <listcomp>
+    "products": [
+                ^
+TypeError: 'ManyRelatedManager' object is not iterable
+2023-06-30 19:01:35,680 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-30 19:01:36,899 [WARNING] django.request: Not Found: /
+2023-06-30 19:01:37,013 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-30 19:02:20,254 [WARNING] django.request: Not Found: /
+2023-06-30 19:02:26,478 [ERROR] django.request: Internal Server Error: /shop/users/1/orders/export/
+Traceback (most recent call last):
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\views\generic\base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py", line 263, in get
+    return JsonResponse({"orders": orders_data})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\http\response.py", line 691, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\PycharmProjects\python_django\venv\Lib\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cry\AppData\Local\Programs\Python\Python311\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type QuerySet is not JSON serializable
+2023-06-30 19:03:17,749 [INFO] django.utils.autoreload: C:\Users\cry\PycharmProjects\python_django\mysite\shopapp\views.py changed, reloading.
+2023-06-30 19:03:18,280 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-30 19:44:39,172 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-30 19:44:41,306 [WARNING] django.request: Not Found: /
+2023-06-30 19:44:41,391 [WARNING] django.request: Not Found: /favicon.ico
