@@ -29,8 +29,7 @@ DATABASE_DIR.mkdir(exist_ok=True)
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = getenv(
-    "DJANGO_SECRET_KEY",
-    'django-insecure-gy^f5f=px_m+u9mcq0=s%p(bmd(g=f(u9ya^zxgiiorx+ic3)!'
+    "DJANGO_SECRET_KEY"
 )
 
 # SECURITY WARNING: don't run with debug turned on in production!
